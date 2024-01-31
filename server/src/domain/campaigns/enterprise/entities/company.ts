@@ -58,7 +58,7 @@ export class Company extends Entity<CompanyProps> {
     return this.props.updatedAt
   }
 
-  touch() {
+  private touch() {
     this.props.updatedAt = new Date()
   }
 
