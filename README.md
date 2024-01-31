@@ -4,7 +4,7 @@
 
 - [x] Deve ser possível cadastrar uma conta
 - [x] Deve ser possível cadastrar uma empresa
-- [ ] Deve ser possível cadastrar uma campanha
+- [x] Deve ser possível cadastrar uma campanha
 - [ ] Deve ser possível se autenticar
 
 ## RNF
