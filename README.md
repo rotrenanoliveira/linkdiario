@@ -2,8 +2,8 @@
 
 ## RF
 
-- [ ] Deve ser possível cadastrar uma conta
-- [ ] Deve ser possível cadastrar uma empresa
+- [x] Deve ser possível cadastrar uma conta
+- [x] Deve ser possível cadastrar uma empresa
 - [ ] Deve ser possível cadastrar uma campanha
 - [ ] Deve ser possível se autenticar
 
